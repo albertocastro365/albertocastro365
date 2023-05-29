@@ -18,7 +18,7 @@ Puedes encontrarme también por aquí:
 
 💼 LinkedIn [Alberto Castro](https://www.linkedin.com/in/albertocastro365/)
 
-🌐 My Website [albertocastro365.medium.com](https://albertocastro365.medium.com/)
+🌐 Tech Blog [albertocastro365.medium.com](https://albertocastro365.medium.com/)
 
 <!--
 **albertocastro365/albertocastro365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
