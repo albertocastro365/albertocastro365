@@ -14,11 +14,11 @@ Pero lo más importante que me ha dado la Power Platform, es que me ha permitido
 
 El fin de este espacio es básicamente poder aportar un poquito y compartir recursos que voy creando en mi día a día por si a alguien le pudieran servir de ayuda.
 
+Puedes encontrarme también por aquí:
+
 💼 LinkedIn [Alberto Castro](https://www.linkedin.com/in/albertocastro365/)
 
 🌐 My Website [albertocastro365.medium.com](https://albertocastro365.medium.com/)
-
-💬 Twitter [@albercastro365](https://twitter.com/albercastro365)
 
 <!--
 **albertocastro365/albertocastro365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
