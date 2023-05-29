@@ -16,6 +16,8 @@ El fin de este espacio es básicamente poder aportar un poquito y compartir recu
 
 Puedes encontrarme también por aquí:
 
+:arrow_upper_right: Telegram [Power Platform Español](https://t.me/EsPowerPlatform)
+
 💼 LinkedIn [Alberto Castro](https://www.linkedin.com/in/albertocastro365/)
 
 🌐 Tech Blog [albertocastro365.medium.com](https://albertocastro365.medium.com/)
