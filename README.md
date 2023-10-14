@@ -22,6 +22,8 @@ Puedes encontrarme también por aquí:
 
 🌐 Tech Blog [albertocastro365.medium.com](https://albertocastro365.medium.com/)
 
+🎥 Canal YouTube [@albertocastro365](https://www.youtube.com/@albertocastro365)
+
 <!--
 **albertocastro365/albertocastro365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
