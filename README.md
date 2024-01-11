@@ -12,7 +12,7 @@ Fiel usuario y seguidor del [CoE Starter Kit](https://github.com/microsoft/coe-s
 
 Pero lo más importante que me ha dado la Power Platform, es que me ha permitido conocer y adentrarme en una comunidad de usuarios increíbles con los que aprender día a día. Personas que sacan el tiempo de donde sea para compartir sus conocimientos. Nunca les podré dar agradecido todo lo que me han ayudado, sin querer, en mi carrera con este producto Microsoft.
 
-Y cómo fruto de esa pasión que me ha inculcado la comunidad en Enero de 2024 me han otorgado el reconocimiento de Microsoft MVP en la categoría de Bussiness Applications. Algo increible.
+Y cómo fruto de esa pasión que me ha inculcado la comunidad, en Enero de 2024 me han otorgado el reconocimiento de Microsoft MVP en la categoría de Bussiness Applications. Algo increible.
 
 ![MVP_Badge_Horizontal_Preferred_Blue3005_RGB](https://github.com/albertocastro365/albertocastro365/assets/57954993/92d49e15-4f2d-426c-850e-d00023e057ec)
 
